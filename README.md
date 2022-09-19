@@ -1,6 +1,6 @@
 # English Test and Translator Telegram Bot
 
-![image](https://files.fm/f/fye2mkj59)
+![image](https://github.com/neti-kar/English_Test_and_Translator_Telegram_Bot/blob/master/image.jpg)
 
 ## Description
 This bot is created on Python 3 https://www.python.org/downloads/
