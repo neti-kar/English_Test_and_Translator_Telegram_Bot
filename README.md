@@ -1,6 +1,6 @@
 # English Test and Translator Telegram Bot
 
-![image](https://files.fm/filebrowser#/;/view/fye2mkj59)
+![image](https://files.fm/f/fye2mkj59)
 
 ## Description
 This bot is created on Python 3 https://www.python.org/downloads/
